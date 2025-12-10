@@ -1,0 +1,201 @@
+sales_rep_key,rep_name,role,hire_date
+1,Daniel Jones,Inside Sales Representative,2019-04-08
+2,Luna Anderson,Channel Account Manager,2023-02-19
+3,John Williams,Channel Account Manager,2016-04-08
+4,Charlotte Scott,Enterprise Account Executive,2023-07-08
+5,Amanda Morris,Enterprise Account Executive,2015-03-23
+6,John Harris,Enterprise Account Executive,2017-04-25
+7,Zoey Evans,Channel Account Manager,2021-02-12
+8,Nathan Hall,Enterprise Account Executive,2015-12-15
+9,Harper Lee,Channel Account Manager,2023-05-27
+10,Ryan Young,Enterprise Account Executive,2016-01-22
+11,Penelope Jackson,Channel Account Manager,2018-02-13
+12,Lily Hughes,Customer Success Manager,2020-03-12
+13,Stella Robinson,Customer Success Manager,2019-12-22
+14,Isabella Hall,Customer Success Manager,2017-09-24
+15,Riley Johnson,Partner Development Manager,2021-05-21
+16,Jack Mitchell,SMB Account Manager,2015-04-27
+17,William Green,SMB Account Manager,2019-02-07
+18,Christopher Robinson,Customer Success Manager,2022-07-21
+19,George Roberts,Enterprise Account Executive,2017-04-24
+20,Aria Anderson,Technical Sales Engineer,2021-10-13
+21,Ryan Wood,Channel Account Manager,2023-08-03
+22,Benjamin Wilson,Channel Account Manager,2017-11-14
+23,Lucas Lee,SMB Account Manager,2024-08-17
+24,Dylan Scott,Solutions Architect,2015-11-24
+25,Daniel Mitchell,Business Development Manager,2023-05-25
+26,Zoey Wilson,Enterprise Account Executive,2021-03-15
+27,James Campbell,Business Development Manager,2019-09-25
+28,Joseph Moore,Business Development Manager,2016-11-10
+29,Grace Roberts,SMB Account Manager,2017-09-25
+30,James Hall,SMB Account Manager,2022-01-04
+31,Ryan Wright,Enterprise Account Executive,2015-04-19
+32,Henry Davies,Inside Sales Representative,2022-02-25
+33,Michael Thomas,Customer Success Manager,2022-09-06
+34,Aria Clark,Solutions Architect,2024-07-07
+35,Grace Adams,Enterprise Account Executive,2021-11-21
+36,Hannah Morgan,Business Development Manager,2023-08-04
+37,Riley Wood,Channel Account Manager,2020-01-19
+38,Penelope Morris,Enterprise Account Executive,2015-02-23
+39,Sophia Wood,Channel Account Manager,2015-06-03
+40,Owen Watson,Customer Success Manager,2022-04-18
+41,Michael Campbell,Business Development Manager,2024-10-16
+42,Riley Edwards,Regional Sales Director,2021-04-04
+43,Alexander Phillips,SMB Account Manager,2020-07-14
+44,Rachel Campbell,Channel Account Manager,2016-01-13
+45,Zoey Evans,Enterprise Account Executive,2018-04-18
+46,Amanda Thomas,SMB Account Manager,2017-05-15
+47,Riley Brown,Partner Development Manager,2023-02-02
+48,Emma Davies,Business Development Manager,2018-03-14
+49,Harry Edwards,Enterprise Account Executive,2021-01-06
+50,Thomas Smith,SMB Account Manager,2019-08-10
+51,John Patel,Inside Sales Representative,2023-11-23
+52,Harry Roberts,Enterprise Account Executive,2019-04-02
+53,Sophia Anderson,SMB Account Manager,2015-01-19
+54,Katherine Moore,Business Development Manager,2023-03-02
+55,Henry Lewis,Channel Account Manager,2024-02-22
+56,Owen Martin,Channel Account Manager,2024-04-19
+57,Amelia Ward,Channel Account Manager,2021-11-19
+58,Christopher White,Enterprise Account Executive,2020-04-09
+59,Adam Thomas,Customer Success Manager,2019-08-11
+60,Isabella Smith,Partner Development Manager,2024-10-04
+61,Isabella Harrison,Enterprise Account Executive,2023-05-05
+62,Nathan Brown,Business Development Manager,2018-06-10
+63,David Morgan,Solutions Architect,2023-12-10
+64,Emma Phillips,Solutions Architect,2023-05-22
+65,Evelyn Thomas,Enterprise Account Executive,2016-02-24
+66,Ella Watson,Enterprise Account Executive,2024-04-23
+67,Zoey Robinson,Customer Success Manager,2019-09-16
+68,Dylan Taylor,Channel Account Manager,2021-05-02
+69,James Harris,Regional Sales Director,2017-11-09
+70,David Anderson,Partner Development Manager,2023-12-14
+71,Emma Wilson,Channel Account Manager,2017-09-02
+72,Hannah Morris,Public Sector Account Manager,2017-07-05
+73,Amelia Wright,SMB Account Manager,2015-06-07
+74,Riley Phillips,Channel Account Manager,2020-09-28
+75,Robert Ward,Inside Sales Representative,2017-04-28
+76,David Lewis,Business Development Manager,2021-01-06
+77,Isaac Clarke,Regional Sales Director,2018-05-06
+78,Evelyn Lee,Solutions Architect,2015-08-08
+79,Grace Hughes,SMB Account Manager,2019-04-08
+80,Charlotte Phillips,Enterprise Account Executive,2021-06-09
+81,Lucas Watson,SMB Account Manager,2023-07-22
+82,Isaac Jones,Channel Account Manager,2019-03-19
+83,Aria Williams,Channel Account Manager,2024-07-12
+84,Christopher James,Technical Sales Engineer,2023-02-13
+85,Samuel White,Channel Account Manager,2021-01-17
+86,Grace King,SMB Account Manager,2016-11-11
+87,Christopher Phillips,Solutions Architect,2016-12-10
+88,Hazel Phillips,SMB Account Manager,2020-07-23
+89,Aurora Scott,Channel Account Manager,2018-07-22
+90,Thomas Mitchell,Inside Sales Representative,2017-10-19
+91,Joshua Martin,Public Sector Account Manager,2015-05-10
+92,Sebastian James,Regional Sales Director,2024-10-21
+93,Nora Hughes,Partner Development Manager,2022-11-07
+94,Edward Anderson,Channel Account Manager,2016-05-17
+95,Isaac Davies,Solutions Architect,2018-11-10
+96,Jack Walker,Channel Account Manager,2015-01-08
+97,Edward Ward,Solutions Architect,2016-08-14
+98,Samuel Adams,Inside Sales Representative,2021-08-13
+99,Riley Roberts,Customer Success Manager,2015-02-25
+100,John Wood,Channel Account Manager,2023-08-02
+101,Riley Wilson,Partner Development Manager,2017-08-22
+102,Christopher Morgan,Technical Sales Engineer,2023-07-27
+103,Amanda Johnson,Inside Sales Representative,2022-08-09
+104,Riley Turner,Enterprise Account Executive,2023-08-21
+105,Owen Watson,Partner Development Manager,2016-12-10
+106,Owen Watson,SMB Account Manager,2020-09-03
+107,Luna Roberts,Enterprise Account Executive,2021-12-05
+108,Chloe Brown,SMB Account Manager,2021-06-18
+109,Rachel Clarke,Channel Account Manager,2018-07-13
+110,Oliver Young,SMB Account Manager,2022-01-12
+111,Joshua Lee,Solutions Architect,2021-09-24
+112,Jack Hill,Enterprise Account Executive,2019-07-16
+113,Charlotte Lee,SMB Account Manager,2021-12-06
+114,Rachel Thomas,Technical Sales Engineer,2023-01-13
+115,Charlotte Davies,Customer Success Manager,2021-03-28
+116,Rachel Lewis,Channel Account Manager,2019-07-11
+117,Chloe Hughes,SMB Account Manager,2020-07-09
+118,Jessica White,Solutions Architect,2016-08-01
+119,Benjamin Cooper,Enterprise Account Executive,2016-11-02
+120,Charlotte Thompson,Enterprise Account Executive,2015-10-05
+121,Owen Thomas,Partner Development Manager,2016-10-07
+122,Rachel Patel,Enterprise Account Executive,2020-03-20
+123,Daniel Johnson,Enterprise Account Executive,2016-10-01
+124,Hazel Young,Customer Success Manager,2021-07-23
+125,Grace Brown,Technical Sales Engineer,2018-02-23
+126,Joshua Mitchell,Technical Sales Engineer,2016-10-26
+127,Amelia Cooper,Public Sector Account Manager,2021-11-12
+128,Lucas Moore,Customer Success Manager,2020-01-28
+129,Jessica Hill,Channel Account Manager,2021-06-21
+130,George Adams,Channel Account Manager,2021-03-24
+131,Luke Ward,Regional Sales Director,2023-08-15
+132,Ashley Campbell,Technical Sales Engineer,2019-06-28
+133,Riley Davies,Enterprise Account Executive,2022-04-25
+134,Rachel Young,Technical Sales Engineer,2021-06-01
+135,Michelle Green,Channel Account Manager,2022-04-12
+136,Aria Harris,Enterprise Account Executive,2024-12-09
+137,Emma Clark,Enterprise Account Executive,2016-04-24
+138,Robert Hill,Public Sector Account Manager,2018-12-16
+139,Harry Morgan,Regional Sales Director,2015-02-10
+140,Jack Martin,Inside Sales Representative,2018-05-22
+141,Hannah Edwards,Public Sector Account Manager,2023-06-14
+142,Isaac Cooper,Inside Sales Representative,2022-05-10
+143,Dylan Wood,Channel Account Manager,2018-06-04
+144,Victoria Walker,Enterprise Account Executive,2022-05-24
+145,Andrew Evans,Solutions Architect,2018-05-08
+146,Ryan Lewis,Enterprise Account Executive,2015-12-18
+147,Michael Watson,Channel Account Manager,2015-09-10
+148,Michael Turner,Solutions Architect,2022-02-28
+149,Emma Young,Enterprise Account Executive,2022-08-15
+150,Zoey Lewis,Channel Account Manager,2019-08-04
+151,Lucas Martin,Partner Development Manager,2016-10-21
+152,Benjamin Roberts,Channel Account Manager,2024-05-03
+153,Riley Wilson,Public Sector Account Manager,2021-10-20
+154,Jack Clark,SMB Account Manager,2022-08-10
+155,John Wright,Technical Sales Engineer,2024-01-20
+156,Alexander Robinson,Customer Success Manager,2018-05-22
+157,Henry Johnson,Enterprise Account Executive,2017-09-03
+158,David Smith,SMB Account Manager,2022-12-20
+159,Edward Jackson,Channel Account Manager,2018-05-23
+160,Andrew Patel,Solutions Architect,2022-02-22
+161,Penelope White,Regional Sales Director,2024-11-26
+162,Grace James,Channel Account Manager,2023-04-21
+163,Ella Watson,Solutions Architect,2017-02-02
+164,Elizabeth Wright,Technical Sales Engineer,2024-05-15
+165,Harper Hughes,Inside Sales Representative,2019-12-13
+166,Luke Moore,Public Sector Account Manager,2022-08-03
+167,Amelia James,Inside Sales Representative,2020-10-09
+168,Charlotte Davies,Enterprise Account Executive,2024-10-01
+169,Luke Young,Channel Account Manager,2017-08-17
+170,Charles Watson,Channel Account Manager,2024-07-21
+171,Harry Davies,Partner Development Manager,2020-07-11
+172,Nora Phillips,Channel Account Manager,2017-06-14
+173,Michelle Jackson,Customer Success Manager,2021-09-02
+174,George Davies,SMB Account Manager,2019-06-04
+175,Sarah Moore,Solutions Architect,2015-11-28
+176,Rachel Clarke,Channel Account Manager,2018-09-12
+177,Michelle Turner,Partner Development Manager,2015-04-09
+178,Michael Jackson,Partner Development Manager,2022-02-01
+179,Owen Adams,Channel Account Manager,2019-09-01
+180,Robert Davies,Enterprise Account Executive,2016-08-04
+181,Ella Hill,Business Development Manager,2019-09-23
+182,Luke Clarke,Solutions Architect,2022-08-08
+183,George Scott,Channel Account Manager,2021-04-20
+184,Luna Brown,Enterprise Account Executive,2021-06-26
+185,Luke Smith,Enterprise Account Executive,2019-10-19
+186,Harry Roberts,Partner Development Manager,2023-08-12
+187,Isaac Scott,Regional Sales Director,2023-07-15
+188,Nora Walker,Inside Sales Representative,2018-10-13
+189,Penelope Clarke,Channel Account Manager,2020-12-16
+190,Thomas Lee,Customer Success Manager,2017-08-02
+191,Michael Moore,Technical Sales Engineer,2020-02-28
+192,Charles Evans,Public Sector Account Manager,2022-01-24
+193,Matthew Clarke,Solutions Architect,2017-02-16
+194,Aria Harris,Technical Sales Engineer,2021-11-03
+195,Isaac Mitchell,Solutions Architect,2023-07-11
+196,Harry Harrison,Channel Account Manager,2024-02-08
+197,Andrew Wood,Inside Sales Representative,2016-07-04
+198,Alexander Morgan,Channel Account Manager,2019-01-02
+199,Nora Taylor,Enterprise Account Executive,2020-06-14
+200,Matthew Thompson,Public Sector Account Manager,2021-10-22

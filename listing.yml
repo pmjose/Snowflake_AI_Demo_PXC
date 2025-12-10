@@ -1,0 +1,22 @@
+listing_kind: event_solution
+name: "Build an AI Assistant for FSI using AISQL and Snowflake Intelligence"
+version: "v1"
+tier: 1
+description: "This lab will guide customers through the process of preparing data (structured and unstructured) for Snowflake Intelligence, ultimately leading to powerful insights from all Enterprise data. Please visit Learn More section below for more details or if you want to try out the Hands on Lab."
+creator: "Innovation Showcase Team"
+use_case:
+  - "Financial Services - Quantitative Research & Investment Analytics"
+vertical_applicability:
+  - "Financial Services"
+  - "Product Hands on Labs"
+snowflake_feature:
+  - "Cortex"
+  - "Cortex Search"
+  - "Cortex Analyst"
+  - "Cortex LLM Functions"
+  - "Cortex Agents"
+  - "Document AI"
+  - "Snowpark"
+  - "Snowflake Intelligence"
+  - "AISQL"
+  - "Document Parsing"

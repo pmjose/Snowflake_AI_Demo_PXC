@@ -1,0 +1,51 @@
+campaign_key,campaign_name,objective
+1,Full Fibre City Launch - Phase 1,Product Launch
+2,Full Fibre City Launch - Phase 2,Product Launch
+3,Partner Acquisition Sprint H1 2025,Partner Acquisition
+4,Partner Acquisition Sprint H2 2025,Partner Acquisition
+5,Wholesale ISP Onboarding Accelerator,Partner Acquisition
+6,PXC 1Portal Co-Marketing,Partner Engagement
+7,PXC Wholesale Launch,Partner Engagement
+8,PXC Demand Generation Sprint,Partner Engagement
+9,PXC Fibre Demand Generation,Partner Engagement
+10,PXC Stream Bundle Launch,Partner Engagement
+11,PXC Co-Branded Launch,Partner Engagement
+12,Smart City Backhaul Launch,Product Launch
+13,Public Sector Campus Fibre Push,Lead Gen
+14,Education Fibre Modernisation,Lead Gen
+15,NHS Site Fibre Upgrade,Lead Gen
+16,Transport Hub Fibre Programme,Lead Gen
+17,CCTV & IoT Backbone Awareness,Awareness
+18,Public WiFi Backhaul Campaign,Lead Gen
+19,Mobile & 5G Backhaul for MNOs,Product Launch
+20,Open RAN Fronthaul Trial,Product Launch
+21,Cloud On-Ramp AWS Direct Connect,Product Launch
+22,Cloud On-Ramp Azure ExpressRoute,Product Launch
+23,Cloud On-Ramp Google Interconnect,Product Launch
+24,Enterprise DIA Upgrade Offer,Upsell
+25,Resilient Ethernet Pair Offer,Upsell
+26,Dark Fibre Metro Ring Launch,Product Launch
+27,Dark Fibre Long Haul Expansion,Product Launch
+28,Local Authority Voucher Awareness,Awareness
+29,PSTN Switch-Off Fibre Migration,Awareness
+30,SMB Digital Full Fibre Push,Lead Gen
+31,Home Full Fibre Speed Upgrade,Upsell
+32,Home Security Backhaul Bundle,Upsell
+33,Premium 5.5G Home Tier Awareness,Awareness
+34,Net Adds Acceleration Q3,Retention
+35,Net Adds Acceleration Q4,Retention
+36,Partner Portal Upgrade,Partner Engagement
+37,Partner Technical Accreditation,Partner Engagement
+38,Customer NPS Improvement Programme,Retention
+39,Service Delivery Excellence,Awareness
+40,ESG & Sustainability Impact,Awareness
+41,Industry Analyst Relations,Awareness
+42,Investor Update Roadshow,Awareness
+43,Smart Poles & Street Works Fibre,Lead Gen
+44,Campus Fibre WiFi Modernisation,Lead Gen
+45,Local Marketing Pop-Up Events,Awareness
+46,Webinar Series: Fibre Performance,Lead Gen
+47,Webinar Series: Partner GTM,Partner Engagement
+48,Webinar Series: Network Resilience,Awareness
+49,Case Study: Public Sector Fibre,Awareness
+50,Case Study: Enterprise DIA,Awareness

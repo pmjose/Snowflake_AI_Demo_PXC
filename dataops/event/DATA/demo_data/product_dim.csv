@@ -1,0 +1,65 @@
+product_key,product_name,category_key,category_name,vertical
+1,PXC Connect 150,1,Home Broadband & WiFi,Homes
+2,PXC Connect 500,1,Home Broadband & WiFi,Homes
+3,PXC Connect 900,1,Home Broadband & WiFi,Homes
+4,PXC Connect 2.5G (XGS-PON),1,Home Broadband & WiFi,Homes
+5,Whole Home WiFi Pods,1,Home Broadband & WiFi,Homes
+6,Digital Voice over Fibre,1,Home Broadband & WiFi,Homes
+7,Home Pro 900 + WiFi 6 Mesh,1,Home Broadband & WiFi,SMB
+8,Partner Stream & TV Enablement,1,Home Broadband & WiFi,Homes
+9,Business Fibre 500 (DIA),2,Business Internet & Ethernet,Enterprise
+10,Business Fibre 1Gb (DIA),2,Business Internet & Ethernet,Enterprise
+11,Dedicated Internet Access 1Gb,2,Business Internet & Ethernet,Enterprise
+12,Dedicated Internet Access 10Gb,2,Business Internet & Ethernet,Enterprise
+13,Cloud Connect for AWS London,2,Business Internet & Ethernet,Enterprise
+14,Cloud Connect for Azure London,2,Business Internet & Ethernet,Enterprise
+15,Cloud Connect for Google Cloud London,2,Business Internet & Ethernet,Enterprise
+16,Metro Dark Fibre Pair,3,Backbone & Dark Fibre,Enterprise
+17,Long Haul Dark Fibre,3,Backbone & Dark Fibre,Enterprise
+18,Data Centre Cross Connect,3,Backbone & Dark Fibre,Enterprise
+19,Metro Ring Access,3,Backbone & Dark Fibre,Enterprise
+20,Resilient Backbone Spur,3,Backbone & Dark Fibre,Enterprise
+21,5G Small Cell Backhaul 10Gb,4,Mobile & Backhaul,Mobile
+22,5G Macro Backhaul 20Gb,4,Mobile & Backhaul,Mobile
+23,Open RAN Fronthaul Service,4,Mobile & Backhaul,Mobile
+24,Wholesale Mobile Broadband Data SIM,4,Mobile & Backhaul,Mobile
+25,IoT SIM & Private APN,4,Mobile & Backhaul,Public Sector
+26,PXC Partner Access A,5,Wholesale & Partner Access,Partner
+27,PXC Partner Access B,5,Wholesale & Partner Access,Partner
+28,PXC Partner Access C,5,Wholesale & Partner Access,Partner
+29,PXC Partner Access D,5,Wholesale & Partner Access,Partner
+30,Wholesale FTTP - Regional ISP,5,Wholesale & Partner Access,Partner
+31,Wholesale Broadband Bundle,5,Wholesale & Partner Access,Partner
+32,ISP Onboarding Accelerator,5,Wholesale & Partner Access,Partner
+33,Local Authority Campus Fibre,6,Smart City & Public Sector,Public Sector
+34,School Modernisation Fibre,6,Smart City & Public Sector,Public Sector
+35,NHS Site Fibre Upgrade,6,Smart City & Public Sector,Public Sector
+36,CCTV & IoT Fibre Backbone,6,Smart City & Public Sector,Public Sector
+37,Smart Poles & Street Works Fibre,6,Smart City & Public Sector,Public Sector
+38,Public WiFi Backhaul,6,Smart City & Public Sector,Public Sector
+39,Transport Hub Fibre,6,Smart City & Public Sector,Public Sector
+40,Survey & Design Services,7,Professional & Managed Services,Enterprise
+41,Wayleave Management,7,Professional & Managed Services,Enterprise
+42,Civil Build Project Management,7,Professional & Managed Services,Enterprise
+43,Service Delivery Management,7,Professional & Managed Services,Enterprise
+44,Migration & Cutover Support,7,Professional & Managed Services,Enterprise
+45,Field Engineering Dispatch,7,Professional & Managed Services,Enterprise
+46,Incident Response Retainer,7,Professional & Managed Services,Enterprise
+47,Managed Router Service,8,Managed WiFi & Security,All
+48,DDoS Protection,8,Managed WiFi & Security,All
+49,Static IP Pack,8,Managed WiFi & Security,All
+50,4G/5G Failover,8,Managed WiFi & Security,All
+51,WiFi 6 Router Upgrade,8,Managed WiFi & Security,All
+52,Performance Monitoring & Insights,8,Managed WiFi & Security,All
+53,Partner Portal Access,9,Channel Partner Enablement,Partner
+54,Provisioning API Access,9,Channel Partner Enablement,Partner
+55,Joint Marketing Funds,9,Channel Partner Enablement,Partner
+56,Partner Training Programme,9,Channel Partner Enablement,Partner
+57,Technical Accreditation,9,Channel Partner Enablement,Partner
+58,Co-branded Installation Kits,9,Channel Partner Enablement,Partner
+59,Data Centre Connect London,10,Cloud & Data Centre Access,Enterprise
+60,Data Centre Connect Manchester,10,Cloud & Data Centre Access,Enterprise
+61,Data Centre Connect Leeds,10,Cloud & Data Centre Access,Enterprise
+62,Cloud On-Ramp AWS London,10,Cloud & Data Centre Access,Enterprise
+63,Cloud On-Ramp Azure London,10,Cloud & Data Centre Access,Enterprise
+64,Cloud On-Ramp Google London,10,Cloud & Data Centre Access,Enterprise

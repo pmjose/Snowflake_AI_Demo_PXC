@@ -1,0 +1,14 @@
+date,city,channel,total_messages,positive,neutral,negative,sentiment_score,avg_response_time_s,avg_resolution_time_s,avg_handle_time_s,avg_queue_time_s,reopen_count,escalation_count,refund_requests
+2024-11-01,London,Call,340,205,86,49,0.25,102,205,182,72,16,6,9
+2024-11-01,London,Chat,150,90,38,22,0.20,64,128,112,38,6,2,3
+2024-11-01,Manchester,Call,185,104,46,35,0.17,112,238,192,84,9,3,6
+2024-11-01,Manchester,Email,95,48,30,17,0.11,215,352,235,108,5,2,3
+2024-11-01,Birmingham,Call,125,72,30,23,0.15,116,250,200,90,5,1,2
+2024-11-01,Leeds,Call,112,66,26,20,0.16,122,242,195,92,4,1,2
+2024-11-01,Glasgow,Call,78,42,19,17,0.10,129,258,208,95,3,1,1
+2024-11-02,London,Call,320,185,78,57,0.21,106,200,178,70,15,5,9
+2024-11-02,London,Social,125,74,31,20,0.17,68,138,118,44,5,1,3
+2024-11-02,Manchester,Call,175,98,42,35,0.16,114,232,188,82,8,2,5
+2024-11-02,Birmingham,Call,122,70,29,23,0.14,118,246,198,90,5,1,2
+2024-11-02,Leeds,Call,108,62,24,22,0.13,126,250,202,96,4,1,2
+2024-11-02,Glasgow,Call,80,44,19,17,0.10,132,258,210,98,3,1,1

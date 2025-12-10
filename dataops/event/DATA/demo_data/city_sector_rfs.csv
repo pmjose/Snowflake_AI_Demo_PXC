@@ -1,0 +1,18 @@
+city,postcode_sector,premises_rfs,takeup_pct,avg_install_days,data_as_of
+London,SE1,150000,0.240,9,Feb 2025 trading update
+London,NW1,120000,0.232,9,Feb 2025 trading update
+London,E1,110000,0.226,9,Feb 2025 trading update
+Manchester,M1,160000,0.238,10,Feb 2025 trading update
+Manchester,M3,140000,0.230,10,Feb 2025 trading update
+Manchester,M15,120000,0.225,10,Feb 2025 trading update
+Birmingham,B1,150000,0.222,10,Feb 2025 trading update
+Birmingham,B5,140000,0.220,10,Feb 2025 trading update
+Leeds,LS1,120000,0.230,11,Feb 2025 trading update
+Leeds,LS9,110000,0.226,11,Feb 2025 trading update
+Glasgow,G1,130000,0.232,11,Feb 2025 trading update
+Glasgow,G11,120000,0.218,11,Feb 2025 trading update
+Bristol,BS1,90000,0.224,12,Feb 2025 trading update
+Bristol,BS7,90000,0.222,12,Feb 2025 trading update
+Cardiff,CF10,80000,0.236,12,Feb 2025 trading update
+Cardiff,CF24,80000,0.252,12,Feb 2025 trading update
+

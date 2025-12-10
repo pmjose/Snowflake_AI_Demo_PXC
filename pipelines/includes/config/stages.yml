@@ -1,0 +1,20 @@
+stages:
+  - Pipeline Initialisation
+  - Vault Initialisation
+  - Data Sharing
+  - Attendee Account Setup
+  - Telco Account Setup
+  - Telco Data Loading
+  - Telco AI Services
+  - Telco Applications
+  - Telco Notebook Execution
+  - Telco Finalization
+  - Pre Snowflake Setup
+  - Snowflake Setup
+  - Additional Configuration
+  - Data Ingestion
+  - Source Testing
+  - Data Transformation
+  - Transformation Testing
+  - Generate Docs
+  - Clean Up

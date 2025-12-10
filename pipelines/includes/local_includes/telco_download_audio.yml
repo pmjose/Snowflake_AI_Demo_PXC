@@ -1,0 +1,28 @@
+Telco Verify Audio Files:
+  extends:
+    - .agent_tag
+  stage: "Telco Data Loading"
+  needs:
+    - job: "Initialise Pipeline"
+    - job: "Telco Configure Account"
+  rules:
+    - if: $EVENT_DEPLOY_TELCO == "true"
+  image: alpine:latest
+  variables:
+    GIT_STRATEGY: fetch
+  allow_failure: false
+  script:
+    - echo "📂 Verifying audio files from repository..."
+    - ls -lh $CI_PROJECT_DIR/audio_files/ 2>/dev/null | head -20 || echo "ERROR - No audio files found!"
+    - echo "..."
+    - FILE_COUNT=$(ls $CI_PROJECT_DIR/audio_files/ 2>/dev/null | wc -l)
+    - echo "✅ Total audio files:" $FILE_COUNT
+    - du -sh $CI_PROJECT_DIR/audio_files/
+    - |
+      if [ "$FILE_COUNT" -ne 25 ]; then
+        echo "⚠️ WARNING: Expected 25 audio files, found $FILE_COUNT"
+      else
+        echo "✅ All 25 audio files present (CALL_001.mp3 to CALL_025.mp3)"
+      fi
+  icon: 📂
+

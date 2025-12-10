@@ -1,0 +1,93 @@
+<div>
+  <div class="admonition tip" style="margin-top: 0">
+    <p class="admonition-title">DataOps.live Development Environment (DevReady)</p>
+    <p>
+      You are about to use the DevReady. Clicking the button below will take you to a
+      new tab in your browser where you can run tools like Jupyter Notebooks and
+      Streamlit apps.
+    </p>
+    <p>
+      When loading DevReady, three images will appear on your screen. The rightmost image in the terminal indicates successful loading, and signifies that you can begin using DevReady.
+    </p>
+    <p style="text-align: center;">
+      <img width="700" alt="DevReady Ready" src="assets/img/devready-steps-dol.png" />
+    </p>
+  </div>
+  <div style="display: flex">
+    <a
+      class="dde-button"
+      href="{url}DDE_ENV={dde_env}/{ci_project_url}/-/tree/{ci_build_ref_name}/{path}"
+      rel="DDE launch"
+      target="_blank"
+      ><p align="{align}" style="margin-bottom: 10px">
+        <img
+          width="250"
+          alt="Jupyter"
+          src="assets/img/clicktoopenindol.png"
+        /></p
+    ></a>
+  </div>
+  <div id="dde-instructions-{random_id}" style="display: none">
+    <div class="admonition question" style="margin-top: 0">
+      <p class="admonition-title">Troubleshooting and help</p>
+      <h3>Docs</h3>
+      <p>Learn more about the <a href="https://docs.dataops.live/docs/dataops-development-environment/what-is-the-dataops-dde/" target="_blank">DDE on the DataOps.live docs site.</a></p>
+      <h3>Copy and Paste not working</h3>
+      <h4>Issue:</h4>
+      <p>Attempting to paste text doesn't appear to work.</p>
+      <h4>Cause:</h4>
+      <p>Some browsers block pasting as a security measure.</p>
+      <h4>Resolution:</h4>
+      <p>You can Allow pasting per instance when you see a dialog appear like below:</p>
+      <p>
+        <img
+          alt="Chrome clipboard dialog"
+          src="assets/img/chrome-clipboard-approval.png"
+          width="300"
+        />
+      </p>
+      <h3>Jupyter Notebook issue</h3>
+      <h4>Issue:</h4>
+      <p>
+        During the first time you have run this project, you are getting the
+        following error in Jupyter Notebook:
+      </p>
+      <div class="highlight">
+        <pre
+          id="__code_2"
+        ><span></span><button class="md-clipboard md-icon" title="Copy to clipboard" data-clipboard-target="#__code_2 > code"></button><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>Exception: Could not find the require environment variables: TASTY_BYTES_APP_USER, TASTY_BYTES_APP_PASSWORD, TASTY_BYTES_APP_ACCOUNT
+    </code></pre>
+      </div>
+      <h4>Cause:</h4>
+      <p>Your Snowflake account credentials didn't make it to the DDE.</p>
+      <h4>Resolution:</h4>
+      <p>To set the account credentials, you can use our Streamlit app.</p>
+      <p>In the DDE terminal, run the following command:</p>
+      <pre
+        id="__code_3"
+      ><button class="md-clipboard md-icon" title="Copy to clipboard" data-clipboard-target="#__code_3 > code"></button><code class="language-bash">dde-admin</code></pre>
+      <p>This will open a Streamlit app within the editor.</p>
+      <p>
+        Use the credentials from the catalog and set the credentials in the DDE
+        Cloud Credentials Setting app:
+      </p>
+      <p>
+        <img
+          alt="DDESetup2"
+          src="assets/img/catalog-to-dde-creds-set.png"
+          width="800"
+        />
+      </p>
+      <p>
+        <ul>
+          <li>
+            Use the <code>Test</code> button to verify that the credentials are correct.  
+          </li>
+          <li>
+            Use the <code>Save</code> button to save the credentials.
+          </li>
+        </ul>
+      </p>
+    </div>
+  </div>
+</div>

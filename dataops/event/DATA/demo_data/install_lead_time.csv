@@ -1,0 +1,8 @@
+product_category,avg_install_days,p90_install_days,notes
+Full Fibre Broadband (Homes),12,20,Partner-led FTTP installs; variance by wayleave
+Business DIA/Ethernet,48,75,Civils/permits drive long tail
+Dark Fibre & Backbone,65,95,Route diversity and civils heavy
+Mobile & 5G Backhaul,40,70,Depends on mast access and power
+Wholesale Partner Access,18,28,API/OSS-ready partners faster
+Smart City & Public Sector,55,85,Campus/streets permits and coordination
+

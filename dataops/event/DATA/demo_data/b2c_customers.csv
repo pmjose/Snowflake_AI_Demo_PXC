@@ -1,0 +1,14 @@
+customer_id,first_name,last_name,email,phone,address,city,county,eircode,plan_name,speed_mbps,bundle,tv_package,wifi_guarantee,add_ons,status,region_key
+CUST-UK-001,Amelia,Evans,amelia.evans@example.co.uk,07123123123,12 Bedford Street,London,Greater London,WC2E 9HE,PXC Connect 900 + Stream,900,Broadband + TV,PXC Stream,Yes,WiFi Pods;Multiroom,Active,400
+CUST-UK-002,Oliver,Smith,oliver.smith@example.co.uk,07900111222,4 Deansgate,Manchester,Greater Manchester,M3 2LG,PXC Connect 500,500,Broadband Only,None,Yes,WiFi Pods,Active,402
+CUST-UK-003,Sophia,Jones,sophia.jones@example.co.uk,07888777666,22 Newhall Street,Birmingham,West Midlands,B3 3LX,PXC Connect 900 Pro,900,Broadband + TV,PXC Stream,No,None,Active,401
+CUST-UK-004,Noah,Brown,noah.brown@example.co.uk,07766555444,18 The Headrow,Leeds,West Yorkshire,LS1 6PT,PXC Connect 900 + Mobile,900,Broadband + TV + Mobile,PXC Stream,Yes,WiFi Pods;Mobile SIM,Active,403
+CUST-UK-005,Isla,Wilson,isla.wilson@example.co.uk,07444111333,7 Argyle Street,Glasgow,Glasgow,G2 8AH,PXC Connect 500 Mobile,500,Broadband + Mobile,None,Yes,Unlimited SIM,Active,405
+CUST-UK-006,Leo,Moore,leo.moore@example.co.uk,07333000999,11 Redcliffe Parade,Bristol,Bristol,BS1 6SP,PXC Connect 300,300,Broadband Only,None,No,None,Active,408
+CUST-UK-007,Grace,Taylor,grace.taylor@example.co.uk,07988776655,9 Grey Street,Newcastle,Tyne and Wear,NE1 6EE,PXC Connect 150 TV,150,Broadband + TV,PXC Stream,Yes,WiFi Pods,Active,404
+CUST-UK-008,Lucas,Anderson,lucas.anderson@example.co.uk,07899001122,15 Castle Boulevard,Nottingham,Nottinghamshire,NG7 1FD,PXC Connect 500,500,Broadband Only,None,Yes,WiFi Pods,Active,401
+CUST-UK-009,Emily,Thomas,emily.thomas@example.co.uk,07111222333,6 Bold Street,Liverpool,Merseyside,L1 4DS,PXC Connect 300 Mobile,300,Broadband + Mobile,None,Yes,Unlimited SIM,Active,402
+CUST-UK-010,Harry,Jackson,harry.jackson@example.co.uk,07222444555,20 George Street,Edinburgh,Midlothian,EH2 2PF,PXC Connect 900 TV,900,Broadband + TV,PXC Stream,Yes,WiFi Pods;Multiroom,Active,405
+CUST-UK-011,Ava,White,ava.white@example.co.uk,07455666777,3 Queen Street,Cardiff,South Glamorgan,CF10 1AU,PXC Connect 150,150,Broadband Only,None,No,None,Active,407
+CUST-UK-012,Oscar,Harris,oscar.harris@example.co.uk,07566777888,27 Friar Street,Reading,Berkshire,RG1 1DP,PXC Connect 900 Mobile,900,Broadband + Mobile,None,Yes,Unlimited SIM,Active,400
+

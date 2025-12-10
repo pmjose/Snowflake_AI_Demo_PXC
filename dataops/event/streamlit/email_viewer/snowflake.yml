@@ -1,0 +1,15 @@
+definition_version: 2
+
+entities:
+  email_viewer:
+    type: streamlit
+    identifier:
+      name: email_viewer
+      database: ACCELERATE_AI_IN_FSI
+      schema: DEFAULT_SCHEMA
+    query_warehouse: SI_DEMO_WH
+    main_file: email_viewer.py
+    title: "📧 Email Viewer - Portfolio Analytics"
+    artifacts:
+      - email_viewer.py
+

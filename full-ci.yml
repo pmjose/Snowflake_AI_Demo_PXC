@@ -1,0 +1,33 @@
+include:
+  - /pipelines/includes/bootstrap.yml
+
+  ## Build Event Instructions Homepage
+  - /pipelines/includes/local_includes/build_homepage.yml
+
+  ## ========================================================================
+  ## TELCO OPERATIONS AI LAB PIPELINE
+  ## ========================================================================
+  
+  ## Telco: Configure Account (roles, warehouses, databases, stages)
+  - /pipelines/includes/local_includes/telco_configure_account.yml
+
+  ## Telco: Verify Audio Files from Repository
+  - /pipelines/includes/local_includes/telco_download_audio.yml
+
+  ## Telco: Upload Files to Stages (CSV data, notebooks, audio)
+  - /pipelines/includes/local_includes/telco_upload_files.yml
+
+  ## Telco: Load Data Foundation (tables, views, pre-loaded data)
+  - /pipelines/includes/local_includes/telco_data_foundation.yml
+
+  ## Telco: Deploy Cortex Search Services
+  - /pipelines/includes/local_includes/telco_deploy_search.yml
+
+  ## Telco: Deploy Cortex Analyst Semantic Views
+  - /pipelines/includes/local_includes/telco_deploy_analyst.yml
+
+  ## Telco: Deploy Applications (Streamlit, Notebooks, Agent)
+  - /pipelines/includes/local_includes/telco_deploy_applications.yml
+
+  ## Telco: Run Notebooks (Execute Notebook 1 and 2 for data processing)
+  - /pipelines/includes/local_includes/telco_run_notebooks.yml

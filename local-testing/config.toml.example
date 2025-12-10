@@ -1,0 +1,42 @@
+# Snowflake CLI Configuration for Local Testing
+# Copy this file to ~/.snowflake/config.toml and update with your values
+
+[connections.telco-local]
+# Your Snowflake account locator (e.g., "abc12345" or "abc12345.us-east-1")
+account = "YOUR_ACCOUNT_LOCATOR"
+
+# Service user created in Snowflake
+user = "DATAOPS_SERVICE_USER"
+
+# Key-pair authentication
+authenticator = "SNOWFLAKE_JWT"
+
+# Path to your private key file
+# Update this to the full path of your snowflake_key.p8 file
+private_key_path = "/path/to/local-testing/snowflake_key.p8"
+
+# Default warehouse
+warehouse = "TELCO_WH"
+
+# Default database and schema
+database = "TELCO_OPERATIONS_AI"
+schema = "DEFAULT_SCHEMA"
+
+# Default role
+role = "ACCOUNTADMIN"
+
+
+# ============================================================================
+# Alternative: Password-based connection (for quick testing)
+# ============================================================================
+# Uncomment and use this if you prefer password authentication
+
+# [connections.telco-password]
+# account = "YOUR_ACCOUNT_LOCATOR"
+# user = "USER"
+# password = "sn0wf@ll"
+# warehouse = "TELCO_WH"
+# database = "TELCO_OPERATIONS_AI"
+# schema = "DEFAULT_SCHEMA"
+# role = "ACCOUNTADMIN"
+

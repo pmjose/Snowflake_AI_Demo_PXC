@@ -1,0 +1,14 @@
+subscription_id,customer_id,product_name,category_name,start_date,status,monthly_fee_eur,tv_package,mobile_sims,wifi_guarantee
+SUB-UK-1001,CUST-UK-001,PXC Connect 900 + Stream,Home Broadband & WiFi,2024-02-10,Active,38.00,PXC Stream,0,true
+SUB-UK-1002,CUST-UK-002,PXC Connect 500,Home Broadband & WiFi,2023-11-22,Active,34.00,None,0,true
+SUB-UK-1003,CUST-UK-003,PXC Connect 900 Pro,Home Broadband & WiFi,2024-05-15,Active,40.00,PXC Stream,0,false
+SUB-UK-1004,CUST-UK-004,PXC Connect 900 + Mobile,Home Broadband & WiFi,2024-01-05,Active,43.00,PXC Stream,1,true
+SUB-UK-1005,CUST-UK-005,PXC Connect 500 Mobile,Home Broadband & WiFi,2023-09-18,Active,32.00,None,1,true
+SUB-UK-1006,CUST-UK-006,PXC Connect 300,Home Broadband & WiFi,2023-10-02,Active,31.00,None,0,false
+SUB-UK-1007,CUST-UK-007,PXC Connect 150 TV,Home Broadband & WiFi,2024-03-27,Active,28.00,PXC Stream,0,true
+SUB-UK-1008,CUST-UK-008,PXC Connect 500,Home Broadband & WiFi,2023-12-11,Active,36.00,None,0,true
+SUB-UK-1009,CUST-UK-009,PXC Connect 300 Mobile,Home Broadband & WiFi,2024-04-30,Active,30.00,None,0,false
+SUB-UK-1010,CUST-UK-010,PXC Connect 900 TV,Home Broadband & WiFi,2024-02-21,Active,44.00,PXC Stream,1,true
+SUB-UK-1011,CUST-UK-011,PXC Connect 150,Home Broadband & WiFi,2024-06-06,Active,29.00,None,0,true
+SUB-UK-1012,CUST-UK-012,PXC Connect 900 Mobile,Home Broadband & WiFi,2024-01-30,Active,25.00,None,1,true
+

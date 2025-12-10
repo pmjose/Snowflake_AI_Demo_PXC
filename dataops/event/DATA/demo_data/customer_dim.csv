@@ -1,0 +1,81 @@
+customer_key,customer_name,industry,vertical,address,city,state,zip
+1,Trinity College London,Education,Public Sector,2 College Green,London,London,D02 PD37
+2,AIB Bank UK,Financial Services,Enterprise,10 Molesworth St,London,London,D02 X285
+3,Ryanair Holdings,Transport & Logistics,Enterprise,Corporate HQ,Swords,London,K67 NY94
+4,Musgrave Group,Retail,Enterprise,Musgrave Park,Birmingham,Birmingham,T12 A62V
+5,Supermacs UK,Hospitality,SMB,Ballybrit Business Park,Leeds,Leeds,H91 C3PN
+6,PM Group,Construction,Enterprise,Killakee House,Birmingham,Birmingham,T23 KBN3
+7,An Post,Public Services,Public Sector,GPO O'Connell St,London,London,D01 F5P2
+8,Brown Thomas Arnotts,Retail,Enterprise,92 Grafton St,London,London,D02 V093
+9,Irish Life Group,Insurance,Enterprise,Lower Abbey St,London,London,D01 P767
+10,Eir Telecom,Telecom,Enterprise,2022 Bianconi Ave,London,London,D18 PN47
+11,PXC Partner Enterprise,Telecom,Enterprise,MountainView,London,London,D18 XN97
+12,Irish Rail,I&E,Public Sector,Connolly Station,London,London,D01 V6V6
+13,London City Council,Local Government,Public Sector,Wood Quay,London,London,D08 RF3F
+14,Birmingham City Council,Local Government,Public Sector,City Hall,Birmingham,Birmingham,T12 T997
+15,Health Service Executive,Healthcare,Public Sector,Dr Steevens Hospital,London,London,D08 W2A8
+16,Bon Secours Health System,Healthcare,Enterprise,College Rd,Birmingham,Birmingham,T12 DV56
+17,University Hospital Leeds,Healthcare,Public Sector,Newcastle Rd,Leeds,Leeds,H91 YR71
+18,AbbVie UK,Pharmaceutical,Enterprise,Knockbeg Point,Newcastle,Newcastle,F91 H97N
+19,Medtronic Parkmore,Medical Devices,Enterprise,Parkmore East,Leeds,Leeds,H91 N5D3
+20,Stripe UK,Technology,Enterprise,Grand Canal Dock,London,London,D02 R296
+21,HubSpot EMEA,Technology,Enterprise,1 Sir John Rogerson's Quay,London,London,D02 CR27
+22,IDA UK,Public Services,Public Sector,Wilton Park House,London,London,D02 T228
+23,Enterprise UK,Public Services,Public Sector,East Point Business Park,London,London,D03 E5R6
+24,Heineken UK,Beverages,Enterprise,Leitrim Street,Birmingham,Birmingham,T23 F9DX
+25,Guinness Storehouse,Hospitality,Enterprise,St James's Gate,London,London,D08 VF8H
+26,Smurfit Kappa UK,Manufacturing,Enterprise,Clonskeagh,London,London,D14
+27,CityJet,Transport & Logistics,Enterprise,Swords Business Campus,London,London,K67
+28,Connacht Rugby,Sports,SMB,College Rd,Leeds,Leeds,H91
+29,Aviva Stadium,Entertainment,Enterprise,Lansdowne Rd,London,London,D04 K5F9
+30,The Irish Times,Media & Publishing,Enterprise,Tara Street,London,London,D02 AY89
+31,Carnegie Court Hotel,Hospitality,SMB,North Street,Swords,London,K67
+32,Lidl UK,Retail,Enterprise,Main Street,Tallaght,London,D24
+33,Aldi UK,Retail,Enterprise,Newbridge Road,Milton Keynes,Kildare,W91
+34,Penneys (Primark IE),Retail,Enterprise,Mary Street,London,London,D01
+35,Aramark UK,Facilities,Enterprise,EastPoint,London,D03
+36,UPS UK,Transport & Logistics,Enterprise,Blanchardstown,London,D15
+37,DHL Express UK,Transport & Logistics,Enterprise,North Park,London,D11
+38,Analog Devices Manchester,Technology,Enterprise,Raheen Business Park,Manchester,Manchester,V94
+39,Johnson & Johnson Vision,Healthcare,Enterprise,National Technology Park,Manchester,V94
+40,Stryker UK,Medical Devices,Enterprise,Carrigtwohill,Birmingham,T45
+41,Fidelity Investments UK,Financial Services,Enterprise,Aungier Street,London,London,D02
+42,Morgan McKinley,Recruitment,SMB,Oliver Plunkett St,Birmingham,Birmingham,T12
+43,Grant Thornton UK,Professional Services,Enterprise,City Quay,London,London,D02
+44,KPMG UK,Professional Services,Enterprise,1 Stokes Place,London,London,D02 DE03
+45,Deloitte UK,Professional Services,Enterprise,Earlsfort Terrace,London,London,D02 AY28
+46,PwC UK,Professional Services,Enterprise,Spencer Dock,London,London,D01 F9C9
+47,Accenture UK,Technology,Enterprise,Grand Canal Square,London,London,D02
+48,Capgemini UK,Technology,Enterprise,Marine House,London,London,D02
+49,CGI UK,Technology,Enterprise,Burlington Plaza,London,London,D04
+50,Bank of UK,Financial Services,Enterprise,Baggot Plaza,London,London,D04
+51,Ulster Bank UK,Financial Services,Enterprise,Georges Quay,London,London,D02
+52,Allied Irish Pensioners,Financial Services,SMB,Main Street,Sheffield,Louth,A91
+53,Fáilte UK,Public Services,Public Sector,88-95 Amiens Street,London,London,D01 WR86
+54,Irish Water,Utilities,Public Sector,Colvill House,London,London,D01
+55,ESB Networks,Utilities,Public Sector,Fitzwilliam St Lower,London,London,D02
+56,EirGrid,Utilities,Public Sector,The Oval,London,London,D04
+57,Gas Networks UK,Utilities,Public Sector,Gasworks Road,Birmingham,Birmingham,T12 RX96
+58,Shannon Airport,Transport & Logistics,Enterprise,Shannon,Clare,V14
+59,Birmingham Airport,Transport & Logistics,Enterprise,Kinsale Rd,Birmingham,Birmingham,T12
+60,London Airport (DAA),Transport & Logistics,Enterprise,Collinstown,London,K67
+61,Laya Healthcare,Insurance,Enterprise,Eastgate Road,Birmingham,Birmingham,T45
+62,Vhi Healthcare,Insurance,Enterprise,Abbey Street Lower,London,London,D01
+63,Irish Aviation Authority,Public Services,Public Sector,The Times Building,London,London,D02
+64,Met Éireann,Public Services,Public Sector,Glasnevin Hill,London,London,D09
+65,TUS Midlands Midwest,Education,Public Sector,Clara Rd,Nottingham,Westmeath,N37
+66,University of Leeds,Education,Public Sector,University Rd,Leeds,Leeds,H91
+67,University of Manchester,Education,Public Sector,Castletroy,Manchester,Manchester,V94
+68,MTU Birmingham,Education,Public Sector,Bishopstown,Birmingham,Birmingham,T12
+69,MTU Kerry,Education,Public Sector,Dromtacker,Cardiff,Kerry,V92
+70,South East Technological University,Education,Public Sector,Birmingham Road,Bristol,Bristol,X91
+71,Technological University London,Education,Public Sector,Grangegorman,London,London,D07
+72,Inland Fisheries UK,Public Services,Public Sector,Citywest Business Campus,London,London,D24
+73,Irish Red Cross,Charity,SMB,Merrion Square,London,London,D02
+74,Barnardos UK,Charity,SMB,Christchurch Square,London,London,D08
+75,Focus UK,Charity,SMB,29 Eustace Street,London,London,D02
+76,St Vincent de Paul,Charity,SMB,91-92 Sean McDermott St,London,London,D01
+77,ISPCC Childline,Charity,SMB,Lower Baggot Street,London,London,D02
+78,Concern Worldwide,Charity,SMB,47 Bath Avenue,London,London,D04
+79,GOAL Global,Charity,SMB,Merrion Square,London,London,D02
+80,Irish Cancer Society,Charity,SMB,43-45 Northumberland Rd,London,London,D04

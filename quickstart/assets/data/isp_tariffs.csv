@@ -1,0 +1,14 @@
+isp,product,speed_mbps,standard_fee_gbp,promo_fee_gbp,promo_months,contract_months,cityfibre_footprint,notes
+PXC Partner A,PXC Connect 300,300,30,28,6,24,Yes,PXC wholesale rate Feb 2025
+PXC Partner A,PXC Connect 500,500,32,30,6,24,Yes,PXC wholesale rate Feb 2025
+PXC Partner B,PXC Connect 900,900,38,35,6,24,Yes,PXC wholesale rate Feb 2025
+PXC Partner C,PXC Connect 900 + Stream,900,43,40,6,18,Yes,PXC bundle with streaming
+PXC Partner D,PXC Connect 150,150,28,26,6,24,Yes,Entry tier on PXC footprint
+PXC Partner D,PXC Connect 500,500,34,31,6,24,Yes,Mid tier on PXC footprint
+PXC Partner D,PXC Connect 900,900,44,39,6,24,Yes,Top tier on PXC footprint
+PXC Partner E,PXC Connect 500,500,36,34,6,24,Yes,Partner E standard tariff
+PXC Partner E,PXC Connect 900,900,40,38,6,24,Yes,Partner E premium tariff
+PXC Partner F,PXC Connect 150,150,29,27,6,24,Yes,Partner F entry tariff
+PXC Partner F,PXC Connect 300,300,31,29,6,24,Yes,Partner F mid tariff
+PXC Partner G,PXC Connect 900,900,25,23,6,24,Yes,Promotion on select PXC areas
+

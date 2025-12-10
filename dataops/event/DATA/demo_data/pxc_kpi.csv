@@ -1,0 +1,13 @@
+metric,value,as_of_note,category
+Premises_Ready_For_Service,4600000,Public reports Feb 2025 ~4.6m RFS,network
+Premises_Target,8000000,Build programme targeting 8m RFS long-term,network
+Broadband_Customers,730000,Public reports Feb 2025 ~730k customers,network
+Net_Adds_H1_2025,120000,Run-rate based on 730k base (illustrative),network
+Revenue_FY2024_GBP,134000000,FY24 revenue ~£134m (Feb 2025 trading update),finance
+Adjusted_EBITDA_FY2024_GBP,5000000,FY24 adjusted EBITDA ~£5m (profitability milestone),finance
+Subsidy_Project_Gigabit_GBP,865000000,UK Project Gigabit subsidies awarded across 9 lots,finance
+Top_Speed_Mbps,5500,Full-fibre headline speed up to 5.5 Gbps (XGS-PON),product
+Partner_WiFi_Assurance_Pct,75,Partner attach rate for WiFi assurance/mesh offers (illustrative),product
+Small_Cell_Backhaul_Sites,2500,Estimated small-cell/5G backhaul sites enabled on PXC fibre,product
+Metro_Backbone_Uptime_Pct,99.95,Target backbone availability SLA,network
+

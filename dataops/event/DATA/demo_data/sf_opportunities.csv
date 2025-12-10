@@ -1,0 +1,51 @@
+opportunity_id,sale_id,account_id,opportunity_name,stage_name,amount,probability,close_date,created_date,lead_source,type,campaign_id
+OPPIE0001,1.0,ACCIE001,Trinity College London - Contact Centre Upgrade,Closed Won,185000.00,100.0,2024-03-15,2023-10-10,Web,Existing Customer - Upgrade,10001
+OPPIE0002,2.0,ACCIE002,AIB - Gigabit Branch Connectivity,Closed Won,420000.00,100.0,2024-05-20,2023-09-01,Partner Referral,Existing Customer - Upgrade,10002
+OPPIE0003,3.0,ACCIE003,Ryanair - Workforce Management & Voice,Closed Won,310000.00,100.0,2024-02-28,2023-08-15,Phone Inquiry,New Customer,10003
+OPPIE0004,4.0,ACCIE004,Musgrave - Retail Site DIA + WiFi,Closed Won,275000.00,100.0,2024-01-30,2023-07-22,Web,Existing Customer - Upgrade,10004
+OPPIE0005,5.0,ACCIE005,Supermacs - Cloud Contact Centre,Closed Won,95000.00,100.0,2024-04-12,2023-11-05,Web,New Customer,10005
+OPPIE0006,6.0,ACCIE006,PM Group - Project Office DIA,Closed Won,68000.00,100.0,2024-02-05,2023-09-18,Event,New Customer,10006
+OPPIE0007,7.0,ACCIE007,An Post - Parcel Hub Connectivity,Closed Won,240000.00,100.0,2024-06-07,2023-12-01,Web,Existing Customer - Upgrade,10007
+OPPIE0008,8.0,ACCIE008,Brown Thomas - WiFi Guarantee & LAN,Closed Won,120000.00,100.0,2024-03-01,2023-09-20,Web,Existing Customer - Upgrade,10008
+OPPIE0009,9.0,ACCIE009,Irish Life - Secure Voice & Recording,Closed Won,150000.00,100.0,2024-05-10,2023-10-15,Phone Inquiry,Existing Customer - Replacement,10009
+OPPIE0010,10.0,ACCIE010,Eir - Backup DIA + Security,Closed Won,210000.00,100.0,2024-04-22,2023-11-11,Referral,Existing Customer - Replacement,10010
+OPPIE0011,11.0,ACCIE011,PXC Partner Enterprise - Dark Fibre Backhaul,Closed Won,500000.00,100.0,2024-07-05,2023-10-30,Partner Referral,Existing Customer - Upgrade,10011
+OPPIE0012,12.0,ACCIE012,Irish Rail - Station WiFi & Analytics,Closed Won,195000.00,100.0,2024-06-18,2023-12-12,Phone Inquiry,New Customer,10012
+OPPIE0013,13.0,ACCIE013,London City Council - Smart City Fibre,Closed Won,260000.00,100.0,2024-03-28,2023-09-25,Web,New Customer,10013
+OPPIE0014,14.0,ACCIE014,Birmingham City Council - CCTV Backhaul,Closed Won,145000.00,100.0,2024-05-02,2023-10-18,Web,New Customer,10014
+OPPIE0015,15.0,ACCIE015,HSE - Hospital DIA + Resilience,Closed Won,620000.00,100.0,2024-07-12,2023-11-28,Event,Existing Customer - Upgrade,10015
+OPPIE0016,16.0,ACCIE016,Bon Secours - WiFi Guarantee Campus,Closed Won,135000.00,100.0,2024-02-14,2023-08-29,Web,New Customer,10016
+OPPIE0017,17.0,ACCIE017,UHG - Contact Centre Modernisation,Closed Won,175000.00,100.0,2024-04-08,2023-09-19,Web,Existing Customer - Upgrade,10017
+OPPIE0018,18.0,ACCIE018,AbbVie - Dedicated Internet 10Gb,Closed Won,340000.00,100.0,2024-06-20,2023-11-07,Partner Referral,New Customer,10018
+OPPIE0019,19.0,ACCIE019,Medtronic - Campus Fibre + DIA,Closed Won,380000.00,100.0,2024-07-30,2023-12-03,Referral,Existing Customer - Upgrade,10019
+OPPIE0020,20.0,ACCIE020,Stripe - Redundant DIA & Cloud Connect,Closed Won,290000.00,100.0,2024-03-22,2023-09-27,Web,New Customer,10020
+OPPIE0021,21.0,ACCIE021,HubSpot - Contact Centre AI Assist,Closed Won,210000.00,100.0,2024-05-18,2023-10-21,Web,Existing Customer - Upgrade,10021
+OPPIE0022,22.0,ACCIE022,IDA UK - Site Fibre for Investors,Closed Won,125000.00,100.0,2024-04-04,2023-08-30,Web,New Customer,10022
+OPPIE0023,23.0,ACCIE023,Enterprise UK - Remote Office DIA,Closed Won,115000.00,100.0,2024-01-19,2023-07-31,Web,New Customer,10023
+OPPIE0024,24.0,ACCIE024,Heineken - Brewery LAN & WiFi,Closed Won,160000.00,100.0,2024-02-27,2023-09-06,Web,Existing Customer - Upgrade,10024
+OPPIE0025,25.0,ACCIE025,Guinness Storehouse - Guest WiFi,Closed Won,140000.00,100.0,2024-03-08,2023-10-02,Event,New Customer,10025
+OPPIE0026,26.0,ACCIE026,Smurfit Kappa - MPLS to DIA Migration,Closed Won,230000.00,100.0,2024-06-01,2023-12-15,Partner Referral,Existing Customer - Replacement,10026
+OPPIE0027,27.0,ACCIE027,CityJet - Ops Network Refresh,Closed Won,175000.00,100.0,2024-05-09,2023-11-10,Phone Inquiry,New Customer,10027
+OPPIE0028,28.0,ACCIE028,Connacht Rugby - Stadium WiFi,Closed Won,90000.00,100.0,2024-04-15,2023-09-12,Web,New Customer,10028
+OPPIE0029,29.0,ACCIE029,Aviva Stadium - Premium WiFi Upgrade,Closed Won,210000.00,100.0,2024-06-11,2023-10-25,Web,Existing Customer - Upgrade,10029
+OPPIE0030,30.0,ACCIE030,Irish Times - Contact Centre Modernisation,Closed Won,155000.00,100.0,2024-02-19,2023-08-22,Web,Existing Customer - Replacement,10030
+OPPIE0031,31.0,ACCIE002,AIB - AI Agent for Contact Centre,Closed Won,260000.00,100.0,2024-07-25,2023-12-20,Partner Referral,Existing Customer - Upgrade,10031
+OPPIE0032,32.0,ACCIE004,Musgrave - Store Voice Migration,Closed Won,120000.00,100.0,2024-03-05,2023-09-15,Web,Existing Customer - Replacement,10032
+OPPIE0033,33.0,ACCIE007,An Post - Logistics Hub DIA,Closed Won,95000.00,100.0,2024-04-28,2023-11-02,Web,Existing Customer - Upgrade,10033
+OPPIE0034,34.0,ACCIE010,Eir - B2B Wholesale Enablement,Closed Won,310000.00,100.0,2024-05-30,2023-12-05,Referral,Existing Customer - Upgrade,10034
+OPPIE0035,35.0,ACCIE011,PXC Partner Enterprise - Cloud Connect Azure,Closed Won,260000.00,100.0,2024-06-25,2023-10-29,Partner Referral,Existing Customer - Upgrade,10035
+OPPIE0036,36.0,ACCIE015,HSE - Clinic DIA Rollout,Closed Won,410000.00,100.0,2024-07-18,2023-12-28,Event,Existing Customer - Upgrade,10036
+OPPIE0037,37.0,ACCIE016,Bon Secours - Contact Centre AI,Closed Won,155000.00,100.0,2024-03-18,2023-09-14,Web,New Customer,10037
+OPPIE0038,38.0,ACCIE018,AbbVie - Redundant Fibre Paths,Closed Won,190000.00,100.0,2024-02-08,2023-08-24,Referral,Existing Customer - Upgrade,10038
+OPPIE0039,39.0,ACCIE019,Medtronic - DIA + WiFi 6 Upgrade,Closed Won,205000.00,100.0,2024-04-02,2023-10-08,Referral,Existing Customer - Upgrade,10039
+OPPIE0040,40.0,ACCIE020,Stripe - DIA + DDoS Protection,Closed Won,230000.00,100.0,2024-05-14,2023-11-21,Web,New Customer,10040
+OPPIE0041,41.0,ACCIE021,HubSpot - International DIA Mesh,Closed Won,275000.00,100.0,2024-06-28,2023-12-09,Web,Existing Customer - Upgrade,10041
+OPPIE0042,42.0,ACCIE022,IDA UK - Investor WiFi Pods,Closed Won,60000.00,100.0,2024-03-25,2023-09-08,Web,New Customer,10042
+OPPIE0043,43.0,ACCIE023,Enterprise UK - Remote Office 1Gb,Closed Won,85000.00,100.0,2024-02-06,2023-08-21,Web,New Customer,10043
+OPPIE0044,44.0,ACCIE024,Heineken - DIA for Breweries,Closed Won,145000.00,100.0,2024-05-06,2023-11-01,Web,Existing Customer - Upgrade,10044
+OPPIE0045,45.0,ACCIE025,Guinness Storehouse - Guest WiFi Pods,Closed Won,105000.00,100.0,2024-04-18,2023-10-19,Event,New Customer,10045
+OPPIE0046,46.0,ACCIE026,Smurfit Kappa - Backbone Fibre,Closed Won,320000.00,100.0,2024-07-02,2023-12-18,Partner Referral,Existing Customer - Upgrade,10046
+OPPIE0047,47.0,ACCIE027,CityJet - Crew Comm Upgrade,Closed Won,95000.00,100.0,2024-03-12,2023-09-17,Phone Inquiry,New Customer,10047
+OPPIE0048,48.0,ACCIE028,Connacht Rugby - Venue WiFi Pods,Closed Won,65000.00,100.0,2024-02-20,2023-08-25,Web,New Customer,10048
+OPPIE0049,49.0,ACCIE029,Aviva Stadium - Redundant Backhaul,Closed Won,275000.00,100.0,2024-06-05,2023-11-14,Web,Existing Customer - Upgrade,10049
+OPPIE0050,50.0,ACCIE030,Irish Times - Cloud Contact Centre AI,Closed Won,145000.00,100.0,2024-04-09,2023-09-30,Web,Existing Customer - Replacement,10050

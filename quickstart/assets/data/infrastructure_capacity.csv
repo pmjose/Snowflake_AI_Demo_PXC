@@ -1,0 +1,16 @@
+site_id,site_name,city,technology,as_of_date,total_bandwidth_gbps,used_bandwidth_gbps,available_bandwidth_gbps,utilization_pct,status,last_maintenance,planned_upgrade,avg_latency_ms,redundant_path,upgrade_due
+UK-LON-CORE1,London Core POP,London,Full Fibre (XGS-PON),2024-11-01,1200.0,760.0,440.0,63.3,Active,2024-09-20,2025-05-20,6.8,True,2026-06-30
+UK-LON-EDGE1,London Edge DC - Docklands,London,Full Fibre (XGS-PON),2024-11-01,450.0,255.0,195.0,56.7,Active,2024-08-22,2025-04-10,7.2,True,2026-05-25
+UK-MAN-POP1,Manchester Regional POP,Manchester,Full Fibre (XGS-PON),2024-11-01,320.0,190.0,130.0,59.4,Active,2024-09-05,2025-05-15,7.9,True,2026-07-10
+UK-BHM-POP1,Birmingham Regional POP,Birmingham,Full Fibre (XGS-PON),2024-11-01,300.0,170.0,130.0,56.7,Active,2024-08-28,2025-04-28,8.1,True,2026-06-12
+UK-GLA-POP1,Glasgow Regional POP,Glasgow,Full Fibre (XGS-PON),2024-11-01,260.0,145.0,115.0,55.8,Active,2024-09-10,2025-06-05,8.6,True,2026-07-30
+UK-EDI-POP1,Edinburgh Regional POP,Edinburgh,Full Fibre (XGS-PON),2024-11-01,220.0,124.0,96.0,56.4,Active,2024-08-14,2025-05-18,8.9,True,2026-07-05
+UK-BRS-POP1,Bristol Edge POP,Bristol,Full Fibre (XGS-PON),2024-11-01,200.0,112.0,88.0,56.0,Active,2024-07-29,2025-04-02,9.3,True,2026-06-18
+UK-NCL-POP1,Newcastle Edge POP,Newcastle,Full Fibre (XGS-PON),2024-11-01,190.0,104.0,86.0,54.7,Active,2024-08-06,2025-04-20,9.8,True,2026-06-30
+UK-LDS-POP1,Leeds Edge POP,Leeds,Full Fibre (XGS-PON),2024-11-01,190.0,108.0,82.0,56.8,Active,2024-09-02,2025-05-25,9.0,True,2026-07-12
+UK-NOT-POP1,Nottingham Edge POP,Nottingham,Full Fibre (XGS-PON),2024-11-01,170.0,94.0,76.0,55.3,Active,2024-08-18,2025-05-08,9.5,True,2026-05-30
+UK-SHF-POP1,Sheffield Edge POP,Sheffield,Full Fibre (XGS-PON),2024-11-01,170.0,96.0,74.0,56.5,Active,2024-09-12,2025-06-01,9.6,True,2026-06-25
+UK-LIV-POP1,Liverpool Edge POP,Liverpool,Full Fibre (XGS-PON),2024-11-01,170.0,98.0,72.0,57.6,Active,2024-08-09,2025-05-01,9.4,True,2026-06-05
+UK-CDF-POP1,Cardiff Edge POP,Cardiff,Full Fibre (XGS-PON),2024-11-01,150.0,84.0,66.0,56.0,Active,2024-09-01,2025-05-30,9.8,True,2026-07-18
+UK-GLW-POP1,Glasgow MVNO Interconnect,Glasgow,MVNO-Backhaul,2024-11-01,160.0,92.0,68.0,57.5,Active,2024-09-15,2025-06-20,8.4,True,2026-08-12
+UK-LON-MVNO1,London MVNO Interconnect,London,MVNO-Backhaul,2024-11-01,220.0,138.0,82.0,62.7,Active,2024-09-25,2025-07-05,7.0,True,2026-09-05

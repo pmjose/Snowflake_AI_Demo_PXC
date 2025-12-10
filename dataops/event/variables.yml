@@ -1,0 +1,76 @@
+# ============================================================================
+# PXC (PlatformX Communications) AI Demo - DataOps Event Variables Configuration
+# ============================================================================
+# Description: Event-specific variables for DataOps.live pipeline deployment
+# Usage: Referenced by pipeline YAMLs and *.template.sql files
+# Naming Convention: Use EVENT_ prefix for all event-specific variables
+# Demo: PXC wholesale UK connectivity platform across residential, business, public sector, and partner backhaul/resilience
+# ============================================================================
+
+variables:
+  # Event Metadata
+  EVENT_NAME: "PXC AI Demo - Wholesale Intelligence"
+  EVENT_TYPE: "pxc_demo"
+  EVENT_DATE: "2025-12-10"
+  EVENT_DEPLOY_TELCO: "true"
+
+  # User Configuration
+  EVENT_USER_NAME: "USER"
+  EVENT_USER_PASSWORD: "sn0wf@ll"
+  EVENT_USER_FIRST_NAME: "Event"
+  EVENT_USER_LAST_NAME: "User"
+  EVENT_ADMIN_NAME: "ADMIN"
+  EVENT_ADMIN_PASSWORD: "sn0wf@ll"
+  EVENT_ADMIN_FIRST_NAME: "Event"
+  EVENT_ADMIN_LAST_NAME: "Admin"
+
+  # Additional Users (CEO, CFO, CRO)
+  EVENT_CEO_NAME: "CEO"
+  EVENT_CEO_PASSWORD: "sn0wf@ll"
+  EVENT_CEO_FIRST_NAME: "Chief"
+  EVENT_CEO_LAST_NAME: "Executive"
+  EVENT_CFO_NAME: "CFO"
+  EVENT_CFO_PASSWORD: "sn0wf@ll"
+  EVENT_CFO_FIRST_NAME: "Chief"
+  EVENT_CFO_LAST_NAME: "Financial"
+  EVENT_CRO_NAME: "CRO"
+  EVENT_CRO_PASSWORD: "sn0wf@ll"
+  EVENT_CRO_FIRST_NAME: "Chief"
+  EVENT_CRO_LAST_NAME: "Revenue"
+
+  # Feature Enablement Flags (used by pipeline YAMLs)
+  TELCO_ENABLE_NOTEBOOKS: "false"
+  TELCO_ENABLE_SEARCH_SERVICES: "true"
+  TELCO_ENABLE_SEMANTIC_VIEWS: "true"
+
+  # Snowflake Configuration - EVENT_ Prefixed
+  EVENT_ATTENDEE_ROLE: "TELCO_ANALYST_ROLE"
+  EVENT_DATABASE: "PXC_AI_DEMO"
+  EVENT_SCHEMA: "PXC_SCHEMA"
+  EVENT_WAREHOUSE: "PXC_DEMO_WH"
+  EVENT_WAREHOUSE_SIZE: "XSMALL"
+  EVENT_AUTO_SUSPEND: 300
+
+  # Schema Names - EVENT_ Prefixed
+  EVENT_CORTEX_ANALYST_SCHEMA: "CORTEX_ANALYST"
+  EVENT_NOTEBOOKS_SCHEMA: "NOTEBOOKS"
+  EVENT_STREAMLIT_SCHEMA: "STREAMLIT"
+  EVENT_MODELS_SCHEMA: "MODELS"
+
+  # Stage Names - EVENT_ Prefixed
+  EVENT_AUDIO_STAGE: "AUDIO_STAGE"
+  EVENT_DATA_STAGE: "DATA_STAGE"
+  EVENT_NOTEBOOK_STAGE: "NOTEBOOK_STAGE"
+  EVENT_STREAMLIT_STAGE: "STREAMLIT_STAGE"
+
+  # PXC Demo Data Model Info (for reference)
+  # Dimension Tables: product_category_dim, product_dim, vendor_dim, customer_dim,
+  #                   account_dim, department_dim, region_dim, sales_rep_dim,
+  #                   campaign_dim, channel_dim, employee_dim, job_dim, location_dim
+  # Fact Tables: sales_fact, finance_transactions, marketing_campaign_fact, hr_employee_fact
+  # CRM Tables: sf_accounts, sf_opportunities, sf_contacts
+  # Semantic Views: FINANCE_SEMANTIC_VIEW, SALES_SEMANTIC_VIEW, MARKETING_SEMANTIC_VIEW, HR_SEMANTIC_VIEW
+  # Search Services: Search_finance_docs, Search_hr_docs, Search_marketing_docs,
+  #                  Search_sales_docs, Search_strategy_docs, Search_demo_docs, Search_network_docs
+  # Intelligence Agent: PXC_Executive_Agent
+

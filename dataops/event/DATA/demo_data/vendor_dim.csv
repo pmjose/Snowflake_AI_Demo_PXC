@@ -1,0 +1,51 @@
+vendor_key,vendor_name,vertical,address,city,state,zip
+1,PXC Build Partner A,Connectivity Partner,The Connection,Newbury,Berkshire,RG14 2FN
+2,PXC Build Partner B,Connectivity Partner,81 Newgate Street,London,London,EC1A 7AJ
+3,PXC Channel Partner A,Connectivity Partner,11 Evesham Street,Manchester,Greater Manchester,M15 4JH
+4,PXC Platform Partner,Platform Partner,500 Brook Drive,Reading,Berkshire,RG2 6UU
+5,PXC Cloud Exchange,Cloud Provider,1 Principal Place,London,London,EC2A 2FA
+6,PXC Security Alliance,Security Partner,2 Kingdom Street,London,London,W2 6BD
+7,PXC Network Edge,Network Equipment,6 Pancras Square,London,London,N1C 4AG
+8,PXC Core Network,Network Equipment,10 Finsbury Square,London,London,EC2A 1AF
+9,PXC Resilience Partner,Backhaul Partner,Building 2 Guildhall,London,London,EC2V 5AE
+10,PXC Cyber Defense,Security Partner,120 Aldersgate Street,London,London,EC1A 4JQ
+11,PXC Managed SOC,Security Partner,140 Leadenhall Street,London,London,EC3V 4QT
+12,PXC Data Centre North,Data Centre Partner,180 Borough High Street,London,London,SE1 1LB
+13,PXC Data Centre South,Data Centre Partner,CityPoint 1 Ropemaker St,London,London,EC2Y 9HT
+14,PXC Hardware Partner,Hardware Partner,1 Triton Square,London,London,NW1 3DX
+15,PXC Device Partner,Hardware Partner,Arena 1,Bracknell,Berkshire,RG12 1HN
+16,PXC Supply Chain Partner,Hardware Partner,25 Prescot Street,London,London,E1 8BB
+17,PXC Field Services,Hardware Partner,3 Lochside View,Edinburgh,Midlothian,EH12 9DH
+18,PXC Interconnect West,Data Centre Partner,8 Buckingham Ave,Slough,Berkshire,SL1 4PF
+19,PXC Interconnect East,Data Centre Partner,630 Ajax Ave,Slough,Berkshire,SL1 4DG
+20,PXC Metro Backhaul,Connectivity Partner,2nd Floor,Reading,Berkshire,RG1 1LX
+21,PXC Construction Alliance,Backhaul Partner,One Friargate,Coventry,West Midlands,CV1 2GN
+22,PXC Voice Fabric,Voice Partner,Grant Way,Isleworth,London,TW7 5QD
+23,PXC Carrier Services,Backhaul Partner,The Connection,Newbury,Berkshire,RG14 2FN
+24,PXC Mobile Access,Mobile Partner,450 Longwater Ave,Reading,Berkshire,RG2 6GF
+25,PXC Mobile RAN Partner A,Mobile Vendor,Telecom Tower,London,London,EC1Y 1AA
+26,PXC Mobile RAN Partner B,Mobile Vendor,Queensberry House,London,London,SW1P 3AL
+27,PXC Mobile RAN Partner C,Mobile Vendor,Centre House,Reading,Berkshire,RG2 6UF
+28,PXC CX Platform, CX Platform,3rd Floor,London,London,EC2M 2AF
+29,PXC Contact Centre Cloud,CX Platform,1 Poultry,London,London,EC2R 8EJ
+30,PXC Service Desk,ITSM Partner,2 Leman Street,London,London,E1 8FA
+31,PXC CRM Core,CRM Partner,110 Bishopsgate,London,London,EC2N 4AY
+32,PXC CRM Growth,CRM Partner,1 Bedford Street,London,London,WC2E 9HG
+33,PXC Support Desk,CX Platform,9th Floor,London,London,EC2A 4NG
+34,PXC ITSM Cloud,ITSM Partner,1 Kingdom Street,London,London,W2 6BD
+35,PXC CPaaS,CPaaS Partner,3 Waterhouse Square,London,London,EC1N 2SW
+36,PXC UCaaS Core,UCaaS Partner,20 Primrose St,London,London,EC2A 2EW
+37,PXC Video Collaboration,Video Partner,33 Cavendish Square,London,London,W1G 0PW
+38,PXC Meeting Rooms,Video Partner,The Hickman 2 Whitechapel Rd,London,London,E1 1EW
+39,PXC Contact Centre Suite,Contact Centre,3 More London Riverside,London,London,SE1 2RE
+40,PXC Customer Analytics,Contact Centre,160 Queen Victoria St,London,London,EC4V 4BF
+41,PXC UCaaS Advanced,UCaaS Partner,125 Old Broad Street,London,London,EC2N 1AR
+42,PXC UCaaS Flex,UCaaS Partner,6 New Street Square,London,London,EC4A 3BF
+43,PXC UCaaS Edge,UCaaS Partner,20 Old Bailey,London,London,EC4M 7AN
+44,PXC UCaaS Mobile,UCaaS Partner,2 Eastbourne Terrace,London,London,W2 6LG
+45,PXC UCaaS Hybrid,UCaaS Partner,The White Building,Reading,Berkshire,RG1 3BU
+46,PXC UCaaS Enterprise,UCaaS Partner,6 Staples Close,Reading,Berkshire,RG1 4PR
+47,PXC Voice Partner,Voice Partner,One Friargate,Coventry,West Midlands,CV1 2GN
+48,PXC TV Partner,Video/TV Partner,25 Copthall Ave,London,London,EC2R 7BP
+49,PXC Streaming Partner,Video/TV Partner,2 Kingdom Street,London,London,W2 6BD
+50,PXC Wholesale Partner,Wholesale Partner,Grant Way,Isleworth,London,TW7 5QD

@@ -1,0 +1,31 @@
+account_id,account_name,customer_key,industry,vertical,billing_street,billing_city,billing_state,billing_postal_code,account_type,annual_revenue,employees,created_date
+ACCIE001,Trinity College London,1,Education,Public Sector,2 College Green,London,London,D02 PD37,Customer,95000000,4000,2020-03-02
+ACCIE002,AIB Bank UK,2,Financial Services,Enterprise,10 Molesworth St,London,London,D02 X285,Customer,5200000000,10000,2021-07-15
+ACCIE003,Ryanair Holdings,3,Transport & Logistics,Enterprise,Corporate HQ,Swords,London,K67 NY94,Customer,9900000000,18000,2022-04-11
+ACCIE004,Musgrave Group,4,Retail,Enterprise,Musgrave Park,Birmingham,Birmingham,T12 A62V,Customer,4000000000,7000,2021-11-29
+ACCIE005,Supermacs UK,5,Hospitality,SMB,Ballybrit Business Park,Leeds,Leeds,H91 C3PN,Customer,650000000,4000,2023-01-06
+ACCIE006,PM Group,6,Construction,Enterprise,Killakee House,Birmingham,Birmingham,T23 KBN3,Customer,700000000,3500,2020-09-14
+ACCIE007,An Post,7,Public Services,Public Sector,GPO O'Connell St,London,London,D01 F5P2,Customer,900000000,9500,2020-12-10
+ACCIE008,Brown Thomas Arnotts,8,Retail,Enterprise,92 Grafton St,London,London,D02 V093,Customer,1200000000,3500,2022-05-01
+ACCIE009,Irish Life Group,9,Insurance,Enterprise,Lower Abbey St,London,London,D01 P767,Customer,1600000000,2500,2020-08-09
+ACCIE010,Eir Telecom,10,Telecom,Enterprise,2022 Bianconi Ave,London,London,D18 PN47,Customer,1200000000,5000,2021-06-18
+ACCIE011,PXC Partner Enterprise,11,Telecom,Enterprise,MountainView,London,London,D18 XN97,Customer,2000000000,3600,2020-02-27
+ACCIE012,Irish Rail (Iarnród Éireann),12,Transport & Logistics,Public Sector,Connolly Station,London,London,D01 V6V6,Customer,1200000000,4000,2022-02-02
+ACCIE013,London City Council,13,Local Government,Public Sector,Wood Quay,London,London,D08 RF3F,Customer,850000000,5800,2021-10-12
+ACCIE014,Birmingham City Council,14,Local Government,Public Sector,City Hall,Birmingham,Birmingham,T12 T997,Customer,420000000,2500,2022-01-15
+ACCIE015,Health Service Executive,15,Healthcare,Public Sector,Dr Steevens Hospital,London,London,D08 W2A8,Customer,22000000000,130000,2020-04-05
+ACCIE016,Bon Secours Health System,16,Healthcare,Enterprise,College Rd,Birmingham,Birmingham,T12 DV56,Customer,800000000,4500,2023-03-09
+ACCIE017,University Hospital Leeds,17,Healthcare,Public Sector,Newcastle Rd,Leeds,Leeds,H91 YR71,Customer,600000000,3000,2021-09-03
+ACCIE018,AbbVie UK,18,Pharmaceutical,Enterprise,Knockbeg Point,Newcastle,Newcastle,F91 H97N,Customer,2300000000,3200,2020-07-22
+ACCIE019,Medtronic Parkmore,19,Medical Devices,Enterprise,Parkmore East,Leeds,Leeds,H91 N5D3,Customer,1800000000,4500,2020-11-30
+ACCIE020,Stripe UK,20,Technology,Enterprise,Grand Canal Dock,London,London,D02 R296,Customer,4500000000,2500,2022-06-20
+ACCIE021,HubSpot EMEA,21,Technology,Enterprise,1 Sir John Rogerson's Quay,London,London,D02 CR27,Customer,800000000,1400,2021-12-05
+ACCIE022,IDA UK,22,Public Services,Public Sector,Wilton Park House,London,London,D02 T228,Customer,300000000,1200,2020-03-18
+ACCIE023,Enterprise UK,23,Public Services,Public Sector,East Point Business Park,London,London,D03 E5R6,Customer,450000000,900,2020-05-11
+ACCIE024,Heineken UK,24,Beverages,Enterprise,Leitrim Street,Birmingham,Birmingham,T23 F9DX,Customer,1100000000,550,2021-01-07
+ACCIE025,Guinness Storehouse,25,Hospitality,Enterprise,St James's Gate,London,London,D08 VF8H,Customer,500000000,700,2023-02-14
+ACCIE026,Smurfit Kappa UK,26,Manufacturing,Enterprise,Clonskeagh,London,London,D14,Customer,2200000000,4600,2021-08-23
+ACCIE027,CityJet,27,Transport & Logistics,Enterprise,Swords Business Campus,London,London,K67,Customer,300000000,1200,2022-09-09
+ACCIE028,Connacht Rugby,28,Sports,SMB,College Rd,Leeds,Leeds,H91,Customer,12000000,180,2023-04-17
+ACCIE029,Aviva Stadium,29,Entertainment,Enterprise,Lansdowne Rd,London,London,D04 K5F9,Customer,75000000,300,2021-02-19
+ACCIE030,The Irish Times,30,Media & Publishing,Enterprise,Tara Street,London,London,D02 AY89,Customer,90000000,500,2020-10-28
