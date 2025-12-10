@@ -1,4 +1,4 @@
-customer_id,first_name,last_name,email,phone,address,city,county,eircode,plan_name,speed_mbps,bundle,tv_package,wifi_guarantee,add_ons,status,region_key
+customer_id,first_name,last_name,email,phone,address,city,county,postcode,plan_name,speed_mbps,bundle,tv_package,wifi_guarantee,add_ons,status,region_key
 CUST-UK-001,Amelia,Evans,amelia.evans@example.co.uk,07123123123,12 Bedford Street,London,Greater London,WC2E 9HE,PXC Connect 900 + Stream,900,Broadband + TV,PXC Stream,Yes,WiFi Pods;Multiroom,Active,400
 CUST-UK-002,Oliver,Smith,oliver.smith@example.co.uk,07900111222,4 Deansgate,Manchester,Greater Manchester,M3 2LG,PXC Connect 500,500,Broadband Only,None,Yes,WiFi Pods,Active,402
 CUST-UK-003,Sophia,Jones,sophia.jones@example.co.uk,07888777666,22 Newhall Street,Birmingham,West Midlands,B3 3LX,PXC Connect 900 Pro,900,Broadband + TV,PXC Stream,No,None,Active,401

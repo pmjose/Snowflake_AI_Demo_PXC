@@ -179,7 +179,7 @@ CREATE OR REPLACE TABLE b2c_customers (
     address VARCHAR(200),
     city VARCHAR(100),
     county VARCHAR(100),
-    eircode VARCHAR(10),
+    postcode VARCHAR(10),
     plan_name VARCHAR(200),
     speed_mbps INT,
     bundle VARCHAR(100),
